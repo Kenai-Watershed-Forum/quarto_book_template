@@ -1,2 +1,2 @@
-# kenai_thermal_imagery_v2
-Kenai Thermal Imagery Project, port from bookdown to quarto
+# Quarto Book Template
+Quarto Book template. Modify this repository with preferred format for initial book format.
